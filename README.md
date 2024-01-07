@@ -1,5 +1,4 @@
 # Disaster Response with AI: Classifying Messages for Effective Relief
-![26720](https://github.com/AlJawharhALOtaibi/Disaster-Response-Pipeline/assets/87391133/363e0898-3d2d-4a82-b292-a3c2bf17c0d4)
 
 ## Project Highlights 
 
